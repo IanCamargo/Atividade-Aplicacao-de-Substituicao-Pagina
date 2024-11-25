@@ -9,12 +9,11 @@
 
 **Matérias:**
 
-* 🖥️Sistemas Operacional
+* 🖥️Sistemas Operacionais I
   
 **Professores:**
 
-* 👨🏻‍🏫Marcos Roberto Nava (Nava)
-* 👩🏻‍🏫Ana Celia Ribeiro Bizigato Portes
+* 👨🏻‍🏫Sandro Roberto Armelin
 
 **Autores:**
 
