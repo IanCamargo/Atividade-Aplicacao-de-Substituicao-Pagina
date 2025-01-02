@@ -1,6 +1,10 @@
-# Atividade Aplicação de Substituição Página 
+# Simulador de Algoritmos de Substituição de Páginas
+Este projeto simula dois algoritmos de substituição de páginas usados na gestão de memória virtual:
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+**FIFO (First-In, First-Out)** \
+**LRU (Least Recently Used)**
+
+O simulador permite ao usuário fornecer uma sequência de referência de páginas e o número de quadros disponíveis na memória para analisar o comportamento desses algoritmos.
 
 ## 💼 Informações sobre o Trabalho
 **Faculdade de Tecnologia de Mogi Mirim**
